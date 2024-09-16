@@ -318,7 +318,9 @@ Grab the local host path
 
 <img src="./public/images/InitialDeployofToDoList.png" width="300" height="150"> 
 
-From this point forward, go to Advance Devs section to clone this repo and deploy to netlify! https://github.com/jamezmca/reactjs-todolist/. Enjoy!
+From this point forward, go to Advance Developer section at the beginning of the readme and clone this repo to deploy to netlify!
+
+Also note that the original project is here, but it doesn't really explain all the ins/outs unless you watch his you tube channels. Enjoy!
 
 ## Acknowledgements
 * James Jamezca: GitHub Repo: https://github.com/jamezmca. He is a total front-end boss! If you are beginner or just need to solidify on some foundations... check out the resources below.
