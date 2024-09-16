@@ -335,4 +335,5 @@ From this point forward, go to Advance Devs section to clone this repo and deplo
 * FontAwesome CDN - https://cdnjs.com/libraries
 * FontAwesome Icons - https://www.fontawesome.com
 * Netlify - https://www.netlify.com
+* https://fonts.google.com/
   
