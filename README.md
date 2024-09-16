@@ -4,8 +4,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 * [@netlify](https://brightvibesrock-todolist.netlify.app/)
 
-I created this template because it super easy to just clone a repo and then make your custom updates, but this project has great foundation to understand reactjs folder structure, components and  how things are linked together, Also, the template has the basic code for developing reactjs cards that can easily be ported to your other apps!
-
 Currently, there are 2 official plugins are available:
 
 * [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
@@ -23,6 +21,7 @@ Currently, there are 2 official plugins are available:
 - [Let's Get Coding](#lets-get-coding)
 - [Get style](#get-your-style)
 - [Run Deploy your app](#deploy-your-app)
+- [Go to Part 2, Deploy to Netlify](#go-to-part-2)
 - [Acknowledgements] (#acknowledgements)
 - [Resources](#resources)
 
@@ -53,10 +52,11 @@ Currently, there are 2 official plugins are available:
 * from terminal, cd to your reactjstodolist folder.
   
 ## Advanced Developers
-If you are already familiar with reactjs, folder structures and props, below are quick steps to  deploy it to netlify. If you are new to reactjs or you just want to refresh on core concepts go to the section -> [Getting Started 101](#getting-started-101).
+
+If you are already familiar with reactjs, folder structures and props, below are quick steps to  deploy it to netlify. If you are new to reactjs or you just want to refresh on core concepts go to the section -> [Getting Started 101](#getting-started-101). Also, all the code for the Part 1: 101 is here: https://github.com/brightvibesrock/reactjs-todo-101 for your reference.
+
 
 ### Get site running on local and deploy to netlify
-All the code for the 101 is here https://github.com/brightvibesrock/reactjs-todo-101 for your reference.
 
 * `remove package-lock.json`
 
@@ -318,9 +318,9 @@ Grab the local host path
 
 <img src="./public/images/InitialDeployofToDoList.png" width="300" height="150"> 
 
-From this point forward, go to Advance Developer section at the beginning of the readme and clone this repo to deploy to netlify!
+## Go to Part 2
 
-Also note that the original project is here, but it doesn't really explain all the ins/outs unless you watch his you tube channels. Enjoy!
+From this point forward, you need to do the Advanced Developer section - Part 2. Part 2, walks through `git clone`, `npm install`, `npm run dev` and `deploy to netifly`. Part 2, Readme is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/).
 
 ## Acknowledgements
 * James Jamezca: GitHub Repo: https://github.com/jamezmca. He is a total front-end boss! If you are beginner or just need to solidify on some foundations... check out the resources below.
