@@ -20,8 +20,7 @@ Currently, there are 2 official plugins are available:
 - [Getting Started 101](#getting-started-101)
 - [Let's Get Coding](#lets-get-coding)
 - [Get style](#get-your-style)
-- [Run Deploy your app](#deploy-your-app)
-- [Go to Advanced Developers](#go-to-advanced developers)
+- [Run and Deploy your app](#deploy-your-app)
 - [Acknowledgements](#acknowledgements)
 - [Resources](#resources)s
 
