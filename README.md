@@ -23,8 +23,9 @@ Currently, there are 2 official plugins are available:
 - [Let's Get Coding](#lets-get-coding)
 - [Get style](#get-your-style)
 - [Run Deploy your app](#deploy-your-app)
+- [Go to Advanced Developer](#go-to-advanced developer)
 - [Acknowledgements](#acknowledgements)
-- [Resources](#resources)
+- [Resources](#resources)s
 
 
 </details>
@@ -318,9 +319,9 @@ Grab the local host path
 
 <img src="./public/images/InitialDeployofToDoList.png" width="300" height="150"> 
 
-From this point forward, go to Advance Developer section at the beginning of the readme and clone this repo to deploy to netlify!
+# Go to Advanced Developers
 
-Also note that the original project is here, but it doesn't really explain all the ins/outs unless you watch his you tube channels. Enjoy!
+From this point forward, go to Advanced Developers section at the beginning of the readme and follow the steps to deploy the complete app code to netlify!
 
 ## Acknowledgements
 * James Jamezca: GitHub Repo: https://github.com/jamezmca. He is a total front-end boss! If you are beginner or just need to solidify on some foundations... check out the resources below.
